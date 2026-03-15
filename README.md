@@ -10,7 +10,7 @@
     
 👨🏻‍💻 17-year-old programmer noob and person who wishes days had 48 hours.
 
-🔭 Hobbies: Computer Science, Photography, 3D-Printing and rendering!
+🔭 Hobbies: Computer Science, Photography, Music, 3D-Printing and rendering!
 
 </div>
 
