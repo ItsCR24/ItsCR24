@@ -8,7 +8,7 @@
 
 <div align="center">
     
-👨🏻‍💻 18-year-old programmer noob and person who wishes days had 48 hours.
+👨🏻‍💻 18-year-old dev and person who wishes days had 48 hours.
 
 🔭 Hobbies: Computer Science, Photography, Music, 3D-Printing and rendering!
 
